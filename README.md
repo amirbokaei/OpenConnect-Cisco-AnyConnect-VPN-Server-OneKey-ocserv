@@ -6,7 +6,7 @@ Tested on ubuntu 18.04 and 16.04.
 
 Download and saving script on your server:
 ```bash
-curl -O https://raw.githubusercontent.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv/master/ocserv-install.sh
+curl -O https://raw.githubusercontent.com/amirbokaei/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv/master/ocserv-install.sh
 ```
 
 Making script executable
@@ -27,7 +27,7 @@ sudo bash ocserv-install.sh
 1. Install Docker
 2. Build docker image
 ```bash
-docker build -t ocserv https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv.git
+docker build -t ocserv https://github.com/amirbokaei/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv.git
 ```
 
 3. Run docker container
@@ -85,7 +85,7 @@ And one more thing, contributions are welcome.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv&type=Date)](https://star-history.com/#iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=amirbokaei/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv&type=Date)](https://star-history.com/#amirbokaei/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv&Date)
 
 
 ## More
